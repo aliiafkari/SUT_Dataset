@@ -20,3 +20,4 @@ The **SUT dataset** has been divided into two partitions and is now available on
 * First partition: [https://drive.google.com/drive/folders/1o8Xx8ivTgeZWyXt5Vjij_0jerVH1XWYv?usp=sharing] **(12 GB)**
 * Second partition: [https://drive.google.com/drive/folders/1P2HBkX1TQEvkAR1JgFPpy-vX_1EiJgFO?usp=sharing] **(14 GB)**
 ### 4. Citation: 
+If you find this data useful, please consider citing our paper:
