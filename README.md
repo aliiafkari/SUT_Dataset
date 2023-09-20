@@ -9,3 +9,6 @@ The dataset comprises 62,453 images that have been categorized into 21 distinct 
 ![image](https://github.com/aliiafkari/SUT_Dataset/assets/129840755/2b28a446-8aaf-4d12-a61e-a9845ce21ab9)
 
 The dataset also includes corresponding files with labeling information for the images. The ground-truth data is organized in CSV files containing image paths and associated information about the embedded data. 
+
+![image](https://github.com/aliiafkari/SUT_Dataset/assets/129840755/799148ac-eaef-49cf-a4ca-fb9dbfb56dc4)
+
