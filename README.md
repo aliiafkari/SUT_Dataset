@@ -12,7 +12,7 @@ The dataset also includes corresponding files with labeling information for the 
 
 ![image](https://github.com/aliiafkari/SUT_Dataset/assets/129840755/799148ac-eaef-49cf-a4ca-fb9dbfb56dc4)
 
-* **Dataset Statistics:** The destribution of images throughout the dataset is shown in below.
+* **Dataset Statistics:** The destribution of images throughout the dataset is shown as below.
   
   ![image](https://github.com/aliiafkari/SUT_Dataset/assets/129840755/f5391430-813b-4ec3-9284-5ddacc2b5d52)
 ### 3. How to Access🚀
