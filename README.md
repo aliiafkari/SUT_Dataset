@@ -16,7 +16,7 @@ The dataset also includes corresponding files with labeling information for the 
   
   ![image](https://github.com/aliiafkari/SUT_Dataset/assets/129840755/f5391430-813b-4ec3-9284-5ddacc2b5d52)
 ### 3. How to Access🚀
-Applicants seeking access to the **SUT dataset** are kindly requested to complete the formal application form provided below to email address eshabaninia@gmail.com. Upon receipt of your application, we will process it within 48-72 hours and subsequently provide the necessary download links for the dataset.
+Applicants seeking access to the **SUT dataset** are kindly requested to complete the formal application form and send it to email address eshabaninia@gmail.com. Upon receipt of your application, we will process it within 48-72 hours and subsequently provide the necessary download links for the dataset.
 
 ### 4. Citation: 
 If you find this data useful, please consider citing our paper:
