@@ -16,8 +16,7 @@ The dataset also includes corresponding files with labeling information for the 
   
   ![image](https://github.com/aliiafkari/SUT_Dataset/assets/129840755/f5391430-813b-4ec3-9284-5ddacc2b5d52)
 ### 3. How to Access🚀
-The **SUT dataset** has been divided into two partitions and is now available on Google Drive, accessible via the following links.
-* First partition: [https://drive.google.com/drive/folders/1o8Xx8ivTgeZWyXt5Vjij_0jerVH1XWYv?usp=sharing] **(12 GB)**
-* Second partition: [https://drive.google.com/drive/folders/1P2HBkX1TQEvkAR1JgFPpy-vX_1EiJgFO?usp=sharing] **(14 GB)**
+Applicants seeking access to the **SUT dataset** are kindly requested to complete the formal application form provided below to email address eshabaninia@gmail.com. Upon receipt of your application, we will process it within 48-72 hours and subsequently provide the necessary download links for the dataset.
+
 ### 4. Citation: 
 If you find this data useful, please consider citing our paper:
