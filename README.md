@@ -18,7 +18,7 @@ The dataset also includes corresponding files with labeling information for the 
 ### 3. How to Access🚀
 Applicants seeking access to the **SUT dataset** are kindly requested to complete the formal application form and send it to email address eshabaninia@gmail.com. 
 
-# Upon receipt of your application, we will process it within 48-72 hours and subsequently provide the necessary download links for the dataset.
+Upon receipt of your application, we will process it within 48-72 hours and subsequently provide the necessary download links for the dataset.
 
 ### 4. Citation: 
 If you find this data useful, please consider citing our paper:
