@@ -1,6 +1,6 @@
 # SUT Dataset: A New Multi-purpose Synthetic Dataset for Farsi Document Image Analysis🕊️
 ## 1. Introduction
-The **SUT Dataset** was first introduced in **[13th International Conference on Computer and Knowledge Engineering (ICCKE)](https://iccke.um.ac.ir/2023)** conference. 
+The **SUT Dataset** was first introduced in **[13th International Conference on Computer and Knowledge Engineering (ICCKE 2023)](https://iccke.um.ac.ir/2023)** conference. 
 
 The authors aim to tackle challenges associated with obtaining diverse and substantial ground-truth data for supervised models in **document image analysis (DIA)** tasks, including document **image classification**, **text detection** and **recognition**, and **information retrieval**.
 
