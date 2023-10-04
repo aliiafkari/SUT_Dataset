@@ -26,7 +26,7 @@ If you find this data useful, please consider citing our paper:
   title={SUT Dataset: A New Multi-purpose Synthetic Dataset for Farsi Document Image Analysis},
   author={Elham Shabaninia, Ali Afkari-fahandari, Fateme Sadat eslami, Nezamabadi-Pour},
   booktitle={2023 13th International Conference on Computer and Knowledge Engineering (ICCKE)},
-  pages={112--116},
+  pages={},
   year={2023},
   organization={IEEE}
 }
