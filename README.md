@@ -24,11 +24,5 @@ Upon receipt of your application, we will process it within ``48-72`` hours and 
 ### 4. Citation: 
 If you find this data useful, please consider citing our paper:🙏🌹
 ```
-  title={SUT Dataset: A New Multi-purpose Synthetic Dataset for Farsi Document Image Analysis},
-  author={Elham Shabaninia, Ali Afkari-fahandari, Fateme Sadat eslami, Nezamabadi-Pour},
-  booktitle={2023 13th International Conference on Computer and Knowledge Engineering (ICCKE)},
-  pages={},
-  year={2023},
-  organization={IEEE}
-}
+E. Shabaninia, F. s. Eslami, A. Afkari-Fahandari and H. Nezamabadi-pour, "SUT: a new multi-purpose synthetic dataset for Farsi document image analysis," 2023 13th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, Iran, Islamic Republic of, 2023, pp. 253-258, doi: 10.1109/ICCKE60553.2023.10326243.
 ```
