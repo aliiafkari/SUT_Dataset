@@ -22,7 +22,7 @@ Applicants seeking access to the **SUT dataset** are kindly requested to complet
 Upon receipt of your application, we will process it within ``48-72`` hours and subsequently provide the necessary download links for the dataset.
 
 ### 4. Citation: 
-If you find this data useful, please consider citing our (paper)[https://ieeexplore.ieee.org/document/10326243]:🙏🌹
+If you find this data useful, please consider citing our [paper](https://ieeexplore.ieee.org/document/10326243):🙏🌹
 ```
 E. Shabaninia, F. s. Eslami, A. Afkari-Fahandari and H. Nezamabadi-pour, "SUT: a new multi-purpose synthetic dataset for Farsi document image analysis," 2023 13th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, Iran, Islamic Republic of, 2023, pp. 253-258, doi: 10.1109/ICCKE60553.2023.10326243.
 ```
